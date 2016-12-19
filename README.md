@@ -1,6 +1,8 @@
 # Arduino-Motor-Control-3WaySwitch
 control a simple dc motor with arduino and a simple 3way switch
 
+https://www.youtube.com/watch?v=dnbQYyMucNc&feature=youtu.be
+
 Component Required:
 
 1x Arduino UNO
