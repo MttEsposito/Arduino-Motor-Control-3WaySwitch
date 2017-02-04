@@ -1,8 +1,11 @@
-/*
-This is a simple project with the Arduino Motor Shield.  
-This code turns the Motor on by a simple 3way switch.
+//**********************************************************************
+//          WELCOME THANK YOU FOR DOWNLOAD THE CODE                    *
+//          MADE BY MATTIA ESPOSITO                                    *
+//          https://github.com/MttEsposito                             *
+//          https://www.youtube.com/channel/UCPTNOyJNd_I3DN77ojzRrug   *
+//          HAVE A NICE CODING                                         *
+//**********************************************************************
 
-*/
 void setup() {  
   pinMode(12,OUTPUT); //Channel A Direction Pin Initialize
   pinMode(6,INPUT); //Input switch1 HIGH
